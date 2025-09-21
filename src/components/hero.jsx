@@ -7,7 +7,7 @@ const Hero = () => {
             <h2 className="subtitle">YADURAJ TOUR AND TRAVELS Neem Ka Thana</h2>
             <div className="hero-content">
                 <div className="hero-image">
-                    <img decoding="async" width="2560" height="1792" src="public/image1.jpg"
+                    <img decoding="async" width="2560" height="1792" src="/image1.jpg"
                         sizes="(max-width: 2560px) 100vw, 2560px" />
                 </div>
                 <div className="hero-text">
