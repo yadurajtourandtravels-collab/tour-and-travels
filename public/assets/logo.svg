@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60">
+  <defs>
+    <linearGradient id="logoGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2E7D32;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background circle -->
+  <circle cx="30" cy="30" r="25" fill="url(#logoGrad)" stroke="#1B5E20" stroke-width="2"/>
+  
+  <!-- Bus/Travel icon -->
+  <path d="M15 20 L45 20 L42 40 L18 40 Z" fill="white" stroke="#1B5E20" stroke-width="1.5"/>
+  <circle cx="22" cy="35" r="4" fill="#1B5E20"/>
+  <circle cx="38" cy="35" r="4" fill="#1B5E20"/>
+  <rect x="25" y="12" width="10" height="8" fill="white" stroke="#1B5E20" stroke-width="1"/>
+  
+  <!-- Company name -->
+  <text x="70" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2E7D32">YADURAJ</text>
+  <text x="70" y="40" font-family="Arial, sans-serif" font-size="12" fill="#4CAF50">TOUR &amp; TRAVELS</text>
+  <text x="70" y="52" font-family="Arial, sans-serif" font-size="8" fill="#666">Neem Ka Thana</text>
+</svg>

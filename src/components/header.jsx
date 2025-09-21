@@ -11,8 +11,8 @@ const Header = () => {
         <header className="header">
             <div className="container nav-container">
                 <div className="logo">
-                    <img src="https://rajasthantourtravel.co.in/wp-content/uploads/2022/07/WhatsApp-Image-2024-06-24-at-16.00.50-1024x1024-removebg-preview.png"
-                        alt="Rajasthan Tour Travel Logo" />
+                    <img src="/assets/logo.svg"
+                        alt="YADURAJ Tour and Travels Logo" />
                 </div>
                 <nav className="navbar">
                     <ul className={isActive ? 'active' : ''}>
